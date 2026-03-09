@@ -1,3 +1,5 @@
+https://zenodo.org/badge/1109014003.svg
+
 # Recursive-Recombinant Framework
 
 A seed theory of how complex systems generate **continuity**, **novelty**, and **durable emergence** through the interaction of two generative modes:
