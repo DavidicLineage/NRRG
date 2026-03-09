@@ -1,4 +1,4 @@
-https://zenodo.org/badge/1109014003.svg
+[![DOI](https://zenodo.org/badge/1109014003.svg)](https://doi.org/10.5281/zenodo.17799014)
 
 # Recursive-Recombinant Framework
 
