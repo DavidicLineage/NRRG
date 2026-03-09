@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Nested Recursive/Recombinant Generativity"
+authors:
+  - family-names: "Carr"
+    given-names: "David S."
+repository-code: "https://github.com/DavidicLineage/NRRG"
+license: "CC0-1.0"
+version: "0.1.0"
+date-released: "2026-03-09"
